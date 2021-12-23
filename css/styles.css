@@ -1,0 +1,186 @@
+body {
+  font-family: 'JetBrains Mono', monospace;
+
+}
+
+h1 {
+  text-align: center;
+  font-family: 'JetBrains Mono', monospace;
+  font-weight: 700;
+  font-size: 2rem;
+}
+
+p {
+  font-size: 1.9rem;
+}
+
+#title {
+  font-family: 'JetBrains Mono', monospace;
+  padding: 3% 15% 9.7%;
+  background-color: #C9D6DF;
+  height: 100%;
+}
+
+.navbar{
+  margin-right: 10%;
+}
+.navbar-brand {
+  font-weight: 800;
+}
+.nav-item {
+  font-size: 1.5rem;
+  padding: 0 20%;
+  /* font-weight: 700; */
+}
+
+#main-heading {
+  color: #303030;
+  font-family: 'JetBrains Mono', monospace;
+  font-weight: 800;
+  font-size: 4rem;
+}
+
+#first-img {
+  width: 80%;
+}
+
+.btn-dark-hover:hover {
+  color: black !important;
+  background-color: rgba(0,0,0,0) !important;
+}
+
+
+.btn {
+  margin-bottom: 12%;
+}
+
+.title {
+  text-align: center;
+  font-family: 'JetBrains Mono', monospace;
+  /* height: 100%; */
+  padding: 8% 0%;
+}
+
+.title-heading {
+  padding-top: 5%;
+}
+
+/* About Me */
+#about {
+  background-color: #52616B;
+  padding: 5% 5%;
+  color: #F0F5F9;
+}
+
+/* Contact Me */
+#contact {
+  text-align: center;
+  background-color: #C9D6DF;
+  /* height: 6rem; */
+  padding: 3%;
+  color: #303030;
+}
+
+.contact-text {
+  font-family: 'JetBrains Mono', monospace;
+  /* font-weight: 700; */
+  padding: 0% 5%;
+  font-size: 1.3rem;
+  margin: 3% 0;
+}
+
+.bold {
+  font-weight: 700;
+}
+
+.ex-large {
+  font-size: 2rem;
+}
+
+.large {
+  font-size: 1.8rem;
+}
+
+.contact-div {
+margin:5% 0;
+}
+
+/* Footer */
+#footer {
+  text-align: center;
+  font-family: 'JetBrains Mono', monospace;
+  background-color: #52616B;
+  padding: 3%;
+
+}
+
+.footer-text {
+  font-size: 1.2rem;
+  color: white;
+}
+
+.footer-ico {
+  margin: 1%;
+  color: #303030;
+}
+
+.footer-ico:hover {
+color: #8f8f8f;
+}
+
+/* BLOG */
+
+#blog {
+  padding: 0 5%;
+}
+
+.card-body {
+font-family: 'JetBrains Mono', monospace;
+
+}
+
+.card-text {
+  font-size: 1.2rem;
+}
+
+.blog-btn {
+  font-family: 'JetBrains Mono', monospace;
+  width: 60%;
+  margin-left: 5%;
+}
+
+#text-invisible {
+  color: #C9D6DF;
+}
+
+
+/* POST */
+
+#post {
+  text-align: center;;
+}
+
+.post-heading {
+  font-weight: 700;
+  margin-bottom: 3%;
+}
+
+.post-img {
+  width: 65%;
+  padding: 3%;
+  background-color: white;
+  border-radius: 1rem;
+}
+
+.post-content {
+  margin: 3% 0;
+  font-family: 'JetBrains Mono', monospace;
+  padding: 0 7%;
+
+}
+
+.content-text {
+  font-size: 1.5rem;
+  text-align: justify;
+  text-justify: inter-word;
+}
